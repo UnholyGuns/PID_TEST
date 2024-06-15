@@ -1,0 +1,2 @@
+This is basic code to implement a PID controller for a brushed DC motor with an encoder attached to it. This is just speed control, no position.
+Also demonstrates how to create seperate .h and .cpp files in the arduino environment.
